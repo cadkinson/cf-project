@@ -6,7 +6,7 @@ body {
 .notebook {
 	width: 100%;
 	background-image: url("images/delicious-ingredients-blank.jpg");
-	padding-bottom: 75px;
+	padding-bottom: 45px;
 	padding-top: 35px;
 	line-height: 1.57;
 }
@@ -35,3 +35,4 @@ input[type="checkbox"] {
 	float: left;
 	margin: 9px 5px 0px 0px;
 }
+
