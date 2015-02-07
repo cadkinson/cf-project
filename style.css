@@ -1,3 +1,37 @@
 body {
-	text-align: center;
+	margin: 0 auto;
+	max-width: 900px;
+}
+
+.notebook {
+	width: 100%;
+	background-image: url("images/delicious-ingredients-blank.jpg");
+	padding-bottom: 75px;
+	padding-top: 35px;
+	line-height: 1.57;
+}
+
+.items-left {
+	width: 40%;
+	display: inline-block;
+	margin: 0 auto;
+	list-style: none;
+	font-family: 'Patrick Hand', serif; 
+	color: #71664f;
+	font-size: 20px;
+}
+
+.items-right {
+	width: 40%;
+	display: inline-block;
+	margin: 0 auto;
+	list-style: none;
+	font-family: 'Patrick Hand', serif; 
+	color: #71664f;
+	font-size: 20px;
+}
+
+input[type="checkbox"] {
+	float: left;
+	margin: 9px 5px 0px 0px;
 }
